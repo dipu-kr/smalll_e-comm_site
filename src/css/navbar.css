@@ -63,7 +63,7 @@ ul li a:hover {
     display: block;
     display: flex;
     align-items: center;
-    justify-content: end;
+    justify-content: flex-end;
   }
   .openMenu {
     flex-direction: column;
