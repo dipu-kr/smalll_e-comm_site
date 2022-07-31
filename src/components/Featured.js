@@ -1,5 +1,5 @@
 import React from "react";
-import "./featured.css";
+import "../css/featured.css";
 
 function Productadd() {
   return (

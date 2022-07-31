@@ -1,5 +1,5 @@
 import React from "react";
-import "./header.css";
+import "../css/header.css";
 import { BsFillForwardFill } from "react-icons/bs";
 
 function Header() {

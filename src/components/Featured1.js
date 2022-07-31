@@ -1,5 +1,5 @@
 import React from "react";
-import "./featured1.css";
+import "../css/featured1.css";
 import { BsStarFill, BsStarHalf, BsStar } from "react-icons/bs";
 
 export default function Featured1() {

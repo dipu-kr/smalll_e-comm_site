@@ -1,5 +1,5 @@
 import React from "react";
-import "./testimonial.css";
+import "../css/testimonial.css";
 import { BsStarFill, BsStar } from "react-icons/bs";
 import { BiBarChartAlt } from "react-icons/bi";
 

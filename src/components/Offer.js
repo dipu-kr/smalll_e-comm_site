@@ -1,5 +1,5 @@
 import React from "react";
-import "./offer.css";
+import "../css/offer.css";
 import { BsFillForwardFill } from "react-icons/bs";
 
 export default function Offer() {
